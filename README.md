@@ -1,3 +1,5 @@
+<img src="./charles-nguenkam.png" alt="Charles Nguenkam" width="180" align="right">
+
 # Charles Nguenkam
 
 **Transformation & Open Data Manager · Data Engineer · Analyst**
