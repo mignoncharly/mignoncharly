@@ -1,4 +1,3 @@
-<img src="./charles-nguenkam.png" alt="Charles Nguenkam" width="180" align="right">
 
 # Charles Nguenkam
 
